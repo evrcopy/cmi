@@ -21,7 +21,7 @@ import './cmi';
 
 ### Via node modules
 
-Package not published yet.
+🤮
 
 ## Development
 
