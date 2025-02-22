@@ -30,7 +30,7 @@ const CODE_TABLE = {
     // Default color set
     black  : 30, bgBlack  : 40,
     red    : 31, bgRed    : 41,
-    green  : 32, bgGreen  : 32,
+    green  : 32, bgGreen  : 42,
     yellow : 33, bgYellow : 43,
     blue   : 34, bgBlue   : 44,
     magenta: 35, bgMagenta: 45,
@@ -38,7 +38,6 @@ const CODE_TABLE = {
     white  : 37, bgWhite  : 47,
 
     // Extended color set
-    gray         : 90, bgGray         : 100,
     grey         : 90, bgGrey         : 100,
     brightBlack  : 90, bgBrightBlack  : 100,
     brightRed    : 91, bgBrightRed    : 101,
